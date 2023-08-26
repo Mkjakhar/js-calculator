@@ -19,8 +19,8 @@
 }
 .calculator_body li.equal_btn {
   background-color: rgb(63, 184, 63);
-  grid-row: 4/6;
   grid-column: 4/5;
+  grid-row: 4/6;
   display: flex;
   align-items: center;
   justify-content: center;
